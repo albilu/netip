@@ -2,6 +2,8 @@ NETIP 3.0
 
 Netip is a command line IP and IPLookup tool.
 
+![Alt text](https://user-images.githubusercontent.com/35330562/34823419-9320c19e-f6ca-11e7-9444-38f1f7e89af7.jpg)
+
 ENVIRONEMENT
 	This tool need curl and lynx to work properly ! So install them if ask !
 
