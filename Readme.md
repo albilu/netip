@@ -5,6 +5,7 @@
 ***ENVIRONEMENT***
 	
 	This tool need curl and lynx to work properly ! So install them if ask !
+	GNU/LINUX
 
 ***COMMAND***
 
