@@ -9,9 +9,9 @@
 
 ***COMMAND***
 
-	1-netip without option for IPLookup of your own machine
-	2-netip ip_adress
-	3-netip --help
+	# netip without option for IPLookup of your own machine
+	# netip ip_adress
+	# netip --help
 
 ***INSTALLATION***
 	
